@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhuvan028
 - 👀 I’m interested to be hired in productive based companies
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently learning cpp language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me paspalabhuvanesh028@gmail.com
 
