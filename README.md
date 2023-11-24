@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhuvan
-- 👀 I’m interested to be hired in productive based companies.
+- 👀 I’m interested to contribute to Open source projects.
 - 🌱 I’m currently learning DEVOPS Tools.
 - 🤝 I’m looking to collaborate on AWS projects.
 - 📫 How to reach me paspalabhuvanesh028@gmail.com
